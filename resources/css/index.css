@@ -1,0 +1,45 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    border: 1px red solid !important;
+
+}
+
+.hero {
+    color: yellow;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+ 
+}
+
+
+
+h1 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#Brushes h1 {
+    background-color: greenyellow;
+
+}
+
+#Frames h1 {
+    background-color: salmon;
+}
+
+#Paint h1 {
+    background-color: lightblue;
+}
+
+p,
+li {
+    font-size: 18px;
+}
+
+
+a {
+    text-decoration: none;
+}
